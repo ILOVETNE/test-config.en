@@ -16,8 +16,8 @@
 "imageSelected":"https://explore.traditionalnortheast.com/wp-content/uploads/2025/07/8-modified-scaled.png"
 }
 ],
-"spacing":15,
-"widthButton":170,
+"spacing":10,
+"widthButton":160,
 "borderRadius":13.7,
 "heightButton":45,
 "backgroundColor":""
