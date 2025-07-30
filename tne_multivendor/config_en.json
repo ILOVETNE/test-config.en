@@ -20,7 +20,7 @@
 "widthButton":150,
 "borderRadius":5,
 "heightButton":46,
-"backgroundColor":"#CC0000"
+"backgroundColor":""
 },
 {
 "isSafeArea":false,
