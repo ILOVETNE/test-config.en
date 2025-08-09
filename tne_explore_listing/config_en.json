@@ -1624,7 +1624,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"settings":["web-ADCGJMRpzk",
+"settings":["web-DTYjzNuTDN",
 "wishlist",
 "title-KshwBXqdxS",
 "darkTheme",
@@ -1653,9 +1653,9 @@
 "about":{
 "webUrl":""
 },
-"web-ADCGJMRpzk":{
+"web-DTYjzNuTDN":{
 "id":"web-12",
-"title":"My Tickets",
+"title":"View Tickets",
 "icon":"news",
 "iconFontFamily":"CupertinoIcons",
 "webUrl":"https://explorenortheast.in/my-bookings/",
@@ -1665,6 +1665,7 @@
 "enableForward":false,
 "enableBackward":true,
 "enableClose":true,
+"script":"window.addEventListener('DOMContentLoaded', () => {\n    // Hide header\n    const header = document.getElementById('header');\n    if (header) header.style.display = 'none';\n\n    // Hide dashboard navigation\n    const dashboardNav = document.querySelector('.dashboard-nav');\n    if (dashboardNav) dashboardNav.style.display = 'none';\n});",
 "buttonAlignment":"centerLeft",
 "buttons":[],
 "bannerHeight":15.0,
