@@ -1627,7 +1627,7 @@
 "settings":["web-CxulROcmla",
 "wishlist",
 "title-KshwBXqdxS",
-"web-oVmZnbRoXG",
+"web-hDbfSxddgF",
 "darkTheme",
 "notifications",
 "biometrics",
@@ -1673,12 +1673,12 @@
 "screen":"home",
 "useTabScreen":false
 },
-"web-oVmZnbRoXG":{
+"web-hDbfSxddgF":{
 "id":"web-12",
 "title":"QR Scene",
 "icon":"qrcode_viewfinder",
 "iconFontFamily":"CupertinoIcons",
-"webUrl":"https://explorenortheast.in/qr-scan/",
+"webUrl":"https://explorenortheast.in/qr-scan/#",
 "enableDivider":false,
 "webViewMode":true,
 "requiredLogin":true,
