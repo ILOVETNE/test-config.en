@@ -62,6 +62,7 @@
 "enableBackground":false,
 "borderInput":false,
 "type":"typewriter",
+"backgroundColor":"FF009688",
 "textColor":"FFFFFF",
 "alignment":"bottomCenter",
 "fontWeight":700,
@@ -1968,13 +1969,6 @@
 "elevation":0,
 "showOnScreens":["home"],
 "alwaysShowAppBar":false
-},
-"Background":{
-"key":"ZmpAYkxURh",
-"color":"FF670110",
-"image":"https://trello.com/1/cards/68884698e3736dc30bd7b4a0/attachments/688a3454ca3017b234dca2ea/download/3.jpg",
-"height":0.67,
-"layout":"background"
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
