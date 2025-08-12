@@ -1,6 +1,28 @@
 {
   "HorizonLayout": [
     {
+      "layout": "multiSiteSelection",
+      "backgroundColor": "",
+      "borderRadius": 0.0,
+      "widthButton": 135.0,
+      "heightButton": 45.0,
+      "spacing": 50.0,
+      "stores": [
+        {
+          "folder": "tne_multivendor",
+          "image": "https://traditionalnortheast.com/wp-content/uploads/2025/07/10-scaled.png",
+          "imageSelected": "https://traditionalnortheast.com/wp-content/uploads/2025/07/9-scaled.png",
+          "colorSelected": "#DB00C9"
+        },
+        {
+          "folder": "tne_explore_listing",
+          "image": "https://traditionalnortheast.com/wp-content/uploads/2025/07/7-scaled.png",
+          "imageSelected": "https://traditionalnortheast.com/wp-content/uploads/2025/07/8-scaled.png",
+          "colorSelected": "#FF6B6B"
+        }
+      ]
+    },
+    {
       "layout": "logo",
       "showMenu": true,
       "showSearch": true,
