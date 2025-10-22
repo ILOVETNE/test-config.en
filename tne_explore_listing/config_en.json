@@ -211,7 +211,7 @@
         {
           "tag":null,
           "name":null,
-          "image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/68f2c0681da499fb074c2761/download/Home_Stays.png",
+          "image":"assets/images/home_stays.jpg",
           "order":null,
           "title":"Home Stays",
           "colors":null,
@@ -231,7 +231,7 @@
         {
           "tag":null,
           "name":null,
-          "image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/68f2c10f6ba089a1154bdd54/download/Events_Fastivals.png",
+          "image":"assets/images/events_fastivals.jpg",
           "order":null,
           "title":"Events, Festivals & Exhibitions",
           "colors":null,
@@ -251,7 +251,7 @@
         {
           "tag":null,
           "name":null,
-          "image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/68f2c1341762a8f0921a15aa/download/Car%26Bike_rentals.png",
+          "image":"assets/images/car_bike_rentals.jpg",
           "order":null,
           "title":"Car & Bike Rentals",
           "colors":null,
@@ -890,7 +890,7 @@
   "Background":{
     "key":"ZmpAYkxURh",
     "color":"FF670110",
-    "image":"assets/images/splashscreen.png",
+    "image":"assets/images/explore-app-background.png",
     "height":0.675,
     "layout":"background"
   },
