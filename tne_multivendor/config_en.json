@@ -4,16 +4,16 @@
       "layout":"multiSiteSelection",
       "stores":[
         {
-          "image":"https://explorenortheast.in/wp-content/uploads/2025/10/tne-logo1.png",
+          "image":"assets/images/tne-logo1.png",
           "folder":"tne_multivendor",
           "colorSelected":"#9900ff",
-          "imageSelected":"https://explorenortheast.in/wp-content/uploads/2025/10/tne-logo2.png"
+          "imageSelected":"assets/images/tne-logo2.png"
         },
         {
-          "image":"https://explorenortheast.in/wp-content/uploads/2025/10/tne-logo3.png",
+          "image":"assets/images/tne-logo3.png",
           "folder":"tne_explore_listing",
           "colorSelected":"#9900ff",
-          "imageSelected":"https://explorenortheast.in/wp-content/uploads/2025/10/tne-logo4.png"
+          "imageSelected":"assets/images/tne-logo4.png"
         }
       ],
       "spacing":22,
