@@ -570,7 +570,9 @@
       "productListItemHeight":108,
       "hideEmptyProductLayout":false,
       "hideEmptyProductListRating":false,
-      "showCartButtonWithQuantity":false
+      "showCartButtonWithQuantity":false,
+      "categoryMenuShowDepth": true,
+      "productCategoryMenuStyle": "tab"
     },
     {
       "name":"Handloom Sador Mekhela",
@@ -626,7 +628,9 @@
       "productListItemHeight":108,
       "hideEmptyProductLayout":false,
       "hideEmptyProductListRating":false,
-      "showCartButtonWithQuantity":false
+      "showCartButtonWithQuantity":false,
+      "categoryMenuShowDepth": true,
+      "productCategoryMenuStyle": "tab"
     },
     {
       "name":"Handmade Jewelleries",
