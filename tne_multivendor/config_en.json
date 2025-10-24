@@ -1858,9 +1858,7 @@
       "parallax":false,
       "parallaxImageRatio":1.2,
       "showSearch":true,
-      "showQRCode":true,
-      "categoryMenuShowDepth": true,
-      "productCategoryMenuStyle": "tab"
+      "showQRCode":true
     },
     {
       "key":"2reihs4qzc",
