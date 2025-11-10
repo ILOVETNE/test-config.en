@@ -985,7 +985,7 @@
 "fullscreen":false,
 "showOriginalColor":false,
 "settings":["web-MTNdTlVkPM",
-"web-dwEtLWELwH",
+"web-PTVwXbIKuV",
 "wishlist",
 "title-QXSCAEaSNA",
 "post-pBuuVJiTlG",
@@ -1125,7 +1125,7 @@
 "screen":"home",
 "useTabScreen":false
 },
-"web-dwEtLWELwH":{
+"web-PTVwXbIKuV":{
 "id":"web-12",
 "title":"QR Scan",
 "icon":"qrcode_viewfinder",
@@ -1135,8 +1135,9 @@
 "webViewMode":true,
 "requiredLogin":true,
 "enableForward":false,
-"enableBackward":true,
+"enableBackward":false,
 "enableClose":true,
+"script":"function hideElements() {\n    // Hide header\n    const header = document.getElementById('header');\n    if (header) header.style.display = 'none';\n\n    // Hide \"Dashboard Navigation\" black bar\n    const dashboardNavTrigger = document.querySelector('.dashboard-responsive-nav-trigger');\n    if (dashboardNavTrigger) dashboardNavTrigger.style.display = 'none';\n\n    // Hide \"My Bookings\" title bar\n    const titleBar = document.getElementById('titlebar');\n    if (titleBar) titleBar.style.display = 'none';\n}\n\n// Run when DOM is loaded\ndocument.addEventListener('DOMContentLoaded', hideElements);\n\n// Run again after 1 second (in case elements load later via AJAX)\nsetTimeout(hideElements, 1000);\n\n// Keep checking every 2 seconds (optional, in case they reappear)\nsetInterval(hideElements, 2000);\n",
 "buttonAlignment":"centerLeft",
 "buttons":[],
 "bannerHeight":15.0,
