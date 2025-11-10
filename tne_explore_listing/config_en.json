@@ -985,7 +985,7 @@
 "fullscreen":false,
 "showOriginalColor":false,
 "settings":["web-MTNdTlVkPM",
-"web-wicyuTPmAk",
+"web-dwEtLWELwH",
 "wishlist",
 "title-QXSCAEaSNA",
 "post-pBuuVJiTlG",
@@ -1125,15 +1125,15 @@
 "screen":"home",
 "useTabScreen":false
 },
-"web-wicyuTPmAk":{
+"web-dwEtLWELwH":{
 "id":"web-12",
 "title":"QR Scan",
-"icon":"news",
+"icon":"qrcode_viewfinder",
 "iconFontFamily":"CupertinoIcons",
 "webUrl":"https://explorenortheast.in/qr-scan/",
 "enableDivider":false,
 "webViewMode":true,
-"requiredLogin":false,
+"requiredLogin":true,
 "enableForward":false,
 "enableBackward":true,
 "enableClose":true,
@@ -1141,7 +1141,8 @@
 "buttons":[],
 "bannerHeight":15.0,
 "useTabScreen":false,
-"roles":["owner"]}
+"roles":["owner",
+"admin"]}
 },
 "drawerIcon":{
 "icon":"list_dash",
