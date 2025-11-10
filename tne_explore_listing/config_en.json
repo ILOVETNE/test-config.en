@@ -985,7 +985,7 @@
 "fullscreen":false,
 "showOriginalColor":false,
 "settings":["web-MTNdTlVkPM",
-"web-OiXfhGVAYQ",
+"web-wicyuTPmAk",
 "wishlist",
 "title-QXSCAEaSNA",
 "post-pBuuVJiTlG",
@@ -1125,7 +1125,7 @@
 "screen":"home",
 "useTabScreen":false
 },
-"web-OiXfhGVAYQ":{
+"web-wicyuTPmAk":{
 "id":"web-12",
 "title":"QR Scan",
 "icon":"news",
@@ -1133,7 +1133,7 @@
 "webUrl":"https://explorenortheast.in/qr-scan/",
 "enableDivider":false,
 "webViewMode":true,
-"requiredLogin":true,
+"requiredLogin":false,
 "enableForward":false,
 "enableBackward":true,
 "enableClose":true,
