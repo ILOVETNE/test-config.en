@@ -155,7 +155,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/home_stays.jpg",
+"image":"assets/images/home_stays.webp",
 "order":null,
 "title":"Home Stays",
 "colors":null,
@@ -175,7 +175,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/events_fastivals.jpg",
+"image":"assets/images/events_fastivals.webp",
 "order":null,
 "title":"Events, Festivals & Exhibitions",
 "colors":null,
@@ -195,7 +195,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/car_bike_rentals.jpg",
+"image":"assets/images/car_bike_rentals.webp",
 "order":null,
 "title":"Car & Bike Rentals",
 "colors":null,
