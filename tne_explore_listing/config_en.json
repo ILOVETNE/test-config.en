@@ -4,16 +4,16 @@
 "layout":"multiSiteSelection",
 "stores":[
 {
-"image":"assets/images/tne-logo1.webp",
+"image":"assets/images/tne-logo1.png",
 "folder":"tne_multivendor",
 "colorSelected":"#9900ff",
-"imageSelected":"assets/images/tne-logo2.webp"
+"imageSelected":"assets/images/tne-logo2.png"
 },
 {
-"image":"assets/images/tne-logo3.webp",
+"image":"assets/images/tne-logo3.png",
 "folder":"tne_explore_listing",
 "colorSelected":"#9900ff",
-"imageSelected":"assets/images/tne-logo4.webp"
+"imageSelected":"assets/images/tne-logo4.png"
 }
 ],
 "spacing":22,
@@ -155,7 +155,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/home_stays.webp",
+"image":"assets/images/home_stays.jpg",
 "order":null,
 "title":"Home Stays",
 "colors":null,
@@ -175,7 +175,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/events_fastivals.webp",
+"image":"assets/images/events_fastivals.jpg",
 "order":null,
 "title":"Events, Festivals & Exhibitions",
 "colors":null,
@@ -195,7 +195,7 @@
 {
 "tag":null,
 "name":null,
-"image":"assets/images/car_bike_rentals.webp",
+"image":"assets/images/car_bike_rentals.jpg",
 "order":null,
 "title":"Car & Bike Rentals",
 "colors":null,
@@ -1207,7 +1207,7 @@
 "Background":{
 "key":"ZmpAYkxURh",
 "color":"FF670110",
-"image":"assets/images/explore-app-background.webp",
+"image":"assets/images/explore-app-background.png",
 "height":0.675,
 "layout":"background"
 },
